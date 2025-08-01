@@ -1,9 +1,9 @@
-[POST]
-Title: Version 0.2 Released
+--POST--
+Title: Version 0.3 Released
 Date: 2025-08-01
-Text: We fixed several bugs and added new plush customization options! Explore the new jungle world now!
+Text: A new feature update has dropped! Now includes animated UI, improved version checking, and update popups!
 
-[POST]
-Title: Launcher Beta Live
+--POST--
+Title: Welcome to Xhenj Launcher
 Date: 2025-07-30
-Text: The launcher is now live! You can auto-update, view news, and play with ease.
+Text: This is the first official release of the launcher. Check for updates and enjoy the game!
