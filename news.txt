@@ -1,3 +1,9 @@
-Welcome to XHENJ LAUNCHER
+[POST]
+Title: Version 0.2 Released
+Date: 2025-08-01
+Text: We fixed several bugs and added new plush customization options! Explore the new jungle world now!
 
-In this Tab your getting live the latest news
+[POST]
+Title: Launcher Beta Live
+Date: 2025-07-30
+Text: The launcher is now live! You can auto-update, view news, and play with ease.
