@@ -1,9 +1,8 @@
 --POST--
-Title: Version 0.3 Released
+Title: Version 0.3 Released | Version 0.3 veröffentlicht | バージョン0.3リリース
 Date: 2025-08-01
-Text: A new feature update has dropped! Now includes animated UI, improved version checking, and update popups!
-
+Text: A new feature update has dropped! Now includes animated UI, improved version checking, and update popups! | Ein neues Feature-Update ist erschienen! Jetzt mit animierter Benutzeroberfläche, verbesserter Versionsprüfung und Update-Popups! | 新しい機能アップデートがリリースされました！アニメーションUI、改善されたバージョンチェック、アップデートポップアップが含まれています！
 --POST--
-Title: Welcome to Xhenj Launcher
+Title: Welcome to Xhenj Launcher | Willkommen beim Xhenj Launcher | Xhenj Launcherへようこそ
 Date: 2025-07-30
-Text: This is the first official release of the launcher. Check for updates and enjoy the game!
+Text: This is the first official release of the launcher. Check for updates and enjoy the game! | Dies ist die erste offizielle Version des Launchers. Überprüfen Sie die Updates und genießen Sie das Spiel! | これはラウンチャーの最初の公式リリースです。更新を確認して、ゲームをお楽しみください！
